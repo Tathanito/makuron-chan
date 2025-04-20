@@ -15,3 +15,9 @@ To have it running on your computer on boot, store the .exe in a safe location, 
 This is the folder with the apps running on the boot of your computer!
 
 Cheers!
+
+# MAKURON is only for Macrons
+# HIRAGANA-CHAN is only for hiragana
+# MAKURON-CHAN is for hiragana and Macrons
+
+# PACO is for spanish (obviously)
