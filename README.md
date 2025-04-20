@@ -17,7 +17,7 @@ This is the folder with the apps running on the boot of your computer!
 Cheers!
 
 # MAKURON is only for Macrons
-# HIRAGANA-CHAN is only for hiragana
-# MAKURON-CHAN is for hiragana and Macrons
+# HIRAGANA-CHAN is only for Hiragana
+# MAKURON-CHAN is for Hiragana and Macrons
 
-# PACO is for spanish (obviously)
+# PACO is for Spanish (obviously)
