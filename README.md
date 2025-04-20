@@ -20,4 +20,4 @@ Cheers!
 # HIRAGANA-CHAN is only for Hiragana
 # MAKURON-CHAN is for Hiragana and Macrons
 
-# PACO is for Spanish (obviously)
+# PACO-CHAN is for Spanish (obviously)
