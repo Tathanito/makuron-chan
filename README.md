@@ -21,3 +21,7 @@ Cheers!
 # MAKURON-CHAN is for Hiragana and Macrons
 
 # PACO-CHAN is for Spanish (obviously)
+
+By the way, on a personal note, I recommend you to just switch to Google IME keyboard! Which works better on most of devices, making hiragana-chan useless.
+Here's the link: 
+https://www.google.co.jp/ime/
